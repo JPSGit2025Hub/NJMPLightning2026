@@ -16,12 +16,12 @@
 
 const eventInfo = {
   name: "RTR Track Days",
-  venue: "NJMP Lightning",
+  venue: "NJMP Thunderbolt",
   // Replace these with the actual event dates when they are final.
   eventDates: {
-    friday: "2026-06-19",
-    saturday: "2026-06-20",
-    sunday: "2026-06-21"
+    friday: "2026-07-24",
+    saturday: "2026-07-25",
+    sunday: "2026-07-26"
   }
 };
 
